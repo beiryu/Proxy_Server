@@ -1,0 +1,4 @@
+http://localhost:8888/www.example.org (simple and small)
+http://localhost:8888/www.cs.toronto.edu/~ylzhang/ (with CSS and Javascript)
+http://localhost:8888/www.cs.toronto.edu/~arnold/ (a giant HTML to receive. Thanks, Arnold!)
+http://localhost:8888/www.cs.toronto.edu/~ylzhang/csc258/memes.html (one with many images)
