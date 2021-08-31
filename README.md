@@ -4,8 +4,8 @@
 ### Hiển thị trang web được list trong "http.txt"
 ### Proxy Server chặn những trang web bị cấm trong file "blacklist.conf"
   Show ERROR:
-    403 - Forbidden
-    You don't have permission to access
+   - 403 - Forbidden
+   - You don't have permission to access
 
 
 
