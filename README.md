@@ -10,12 +10,12 @@
    - 403 - Forbidden: You don't have permission to access
 
 # Explain source code
-  def main():
+  - def main():
   + Chờ xử lý hàng đợi
   + Tạo Socket
   + Kết nối Socket đến port and host
   + Tạo luồng xử lý yêu cầu
-  def analyzeHeader(header, clientAddr):
+  - def analyzeHeader(header, clientAddr):
   + Phân tích header để tìm method, url, ver
   + Phân tích url để tìm HTTP position và Port position.
 
