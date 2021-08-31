@@ -3,11 +3,11 @@
   Cấu hình Firefox đến port 8888 và HTTP proxy
 ### Build Proxy Server
 ### Show HTTP Website
-  - "file http.text" chứa những file http có thể truy cập
+  - file "http.text" chứa những file http có thể truy cập
   - Sau khi nhận dữ liệu từ server thì hiển thị cho client
 ### Access to blocked website
-  Show ERROR:
-   - 403 - Forbidden: You don't have permission to access
+  - Websites bị cấm được lưu trong blacklist.conf
+  - Khi truy cập thì show error, 403 - Forbidden: You don't have permission to access
 
 # Explain source code
 ### def main():
